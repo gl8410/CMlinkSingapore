@@ -17,7 +17,7 @@ proxyPass="kg@1odifueowt7iosidf#41oisadf"
 # Define target website to visit
 cmLink="https://www.cmlink.com/sg/"
 promotionCode=""
-cnNumber="15925229900"
+cnNumber="xxxxxxxx9900"
 numberpath="numbers.csv"
 musicPath="boss.mp3"
 
